@@ -2,6 +2,6 @@
 - - -
 I learned about Git and Arduino in this exercise.
 
-![image info](./PCB_Design_Cost.png)
+![The cost of my PCB design.](./PCB_Design_Cost.png)
 
-![image info](./PCB_Diagram.png)
+![The actual diagram of my PCB Board.](./PCB_Diagram.png)
